@@ -22,6 +22,6 @@ Contact person:
 
 Project image:
 
-![Image of project](https://github.com/AsuraNur/tictactoe/blob/master/project.JPG)
+![Image of project](https://github.com/AsuraNur/tictactoe/blob/master/img.JPG)
 
 ![Image of project](https://github.com/AsuraNur/tictactoe/blob/master/cs.png)
